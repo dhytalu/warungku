@@ -1,0 +1,17 @@
+
+/*style Jumbotron*/
+.jumbotron {
+    background-image: url("../gambar/bgniy2.jpg");
+    background-size: cover;
+    height: 770px;
+    text-align: center;
+    background-repeat: repeat;
+}
+.jumbotron .display-4 {
+    color: white;
+    margin-top: 200px;
+}
+.jumbotron p {
+    color: white;
+}
+
